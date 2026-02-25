@@ -1,22 +1,26 @@
-# build-order-parser
+# build-order-parser (Vercel + Telegram)
 
-## Что умеет
-- Загрузка ассортимента из Google Sheets / Excel / CSV
-- Разбор "грязного" текста заявки (с учетом размеров в названии)
-- Нечеткое сопоставление номенклатуры
-- Черновик заказа
-- Копирование черновика
-- Экспорт заказа в Excel
-- Фильтр по нераспознанным / низкой уверенности
+## Что добавлено
+- Голосовой ввод (Web Speech API, Chrome)
+- `/api/orders` — отправка заказа в Telegram
+- `/api/parser-sync` — серверная синхронизация ассортимента (CSV / XLSX / JSON / HTML table)
+- `vercel.json` cron на **09:00** и **14:00 МСК** (UTC: 06:00 и 11:00)
 
-## Локальный запуск
+## Переменные Vercel
+- `TELEGRAM_BOT_TOKEN`
+- `TELEGRAM_CHAT_ID`
+- `PARSER_SOURCE_URL` (опционально, URL прайса/таблицы для cron)
+- `ORDER_FORWARD_URL` (опционально)
+- `ORDER_FORWARD_TOKEN` (опционально)
+
+## Локально
 ```bash
 npm install
 npm run dev
 ```
 
-## Деплой на Vercel
-1. Загрузите проект в GitHub
-2. Vercel → Add New → Project
-3. Выберите репозиторий
-4. Deploy
+## Деплой
+1. Залить в GitHub
+2. Подключить к Vercel
+3. Добавить env-переменные
+4. Redeploy
