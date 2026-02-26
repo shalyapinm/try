@@ -1,5 +1,7 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import * as XLSX from 'xlsx';
+
+const DEBUG_NORMALIZE = false;
 import { parseOrderText } from "./utils/orderTextParser.js";
 
 const DEMO_CSV = `sku,name,aliases,unit,price,category
@@ -298,7 +300,7 @@ export default function App() {
                   return <div key={r.rowId} className='result-item'>
                     <div className='result-grid'>
                       <div><div className='muted'>Исходник</div><div style={{fontWeight:600,marginTop:4}}>{r.itemText}</div>
-                        <div className='muted' style={{marginTop:6,fontSize:12}}>{r.normalizedQuery && r.normalizedQuery !== r.itemText ? ("Нормализовано: " + r.normalizedQuery) : ""}</div><div className='row small' style={{marginTop:8}}><span style={{color:'#64748b'}}>Уверенность</span><div className='progress'><div className={bar} style={{width:(r.confidence + "%")}} /></div><b>{r.confidence}%</b></div></div>
+                        <div className='muted' style={{marginTop:6,fontSize:12}}>{DEBUG_NORMALIZE && r.normalizedQuery && r.normalizedQuery !== r.itemText ? ("Нормализовано: " + r.normalizedQuery) : ""}</div><div className='row small' style={{marginTop:8}}><span style={{color:'#64748b'}}>Уверенность</span><div className='progress'><div className={bar} style={{width:(r.confidence + "%")}} /></div><b>{r.confidence}%</b></div></div>
                       <div className='grid' style={{ gridTemplateColumns:'1fr 90px 90px', gap:8 }}>
                         <div><div className='muted'>Позиция</div><select className='select' value={r.selectedId} onChange={(e)=>updateResult(r.rowId,{selectedId:e.target.value})} style={{marginTop:4}}><option value=''>— Не выбрано —</option>{r.candidates.map(c => <option key={c.item.id} value={c.item.id}>{c.item.name} ({c.confidence}%)</option>)}</select></div>
                         <div><div className='muted'>Кол-во</div><input className='input' value={r.qty} onChange={(e)=>updateResult(r.rowId,{qty:e.target.value})} style={{marginTop:4}} /></div>
