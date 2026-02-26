@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-02-26",
+  "normalization": {
+    "replaceChars": { "ё": "е" },
+    "stripCharsRegex": "[\"'`«»“”()]",
+    "collapseSpaces": true
+  },
+  "noiseWords": ["мне", "пожалуйста", "надо", "нужно", "закажи", "привези"],
+  "aliases": [
+    { "from": "усб", "to": "осб", "type": "product", "priority": 100 },
+    { "from": "usb", "to": "осб", "type": "product", "priority": 100 },
+    { "from": "osb", "to": "осб", "type": "product", "priority": 100 },
+    { "from": "осп", "to": "осб", "type": "product", "priority": 95 },
+    { "from": "гкл", "to": "гипсокартон", "type": "product", "priority": 100 },
+    { "from": "гипрок", "to": "гипсокартон", "type": "brand_to_product", "priority": 95 },
+    { "from": "мин вата", "to": "минвата", "type": "product", "priority": 95 },
+    { "from": "ротбанд", "to": "knauf rotband", "type": "brand_model", "priority": 100 },
+    { "from": "пена проф", "to": "монтажная пена профессиональная", "type": "product", "priority": 100 }
+  ],
+  "units": {
+    "лист": ["лист", "листа", "листов"],
+    "пачка": ["пач", "пачка", "пачки", "пачек"],
+    "мешок": ["меш", "мешок", "мешка", "мешков"],
+    "баллон": ["бал", "баллон", "баллона", "баллонов"],
+    "штука": ["шт", "штука", "штук"]
+  }
+}

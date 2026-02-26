@@ -1,5 +1,6 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import * as XLSX from 'xlsx';
+import { parseOrderText } from "./utils/orderTextParser.js";
 
 const DEMO_CSV = `sku,name,aliases,unit,price,category
 MW-50-300,Минвата 50мм пачка 3м2,"минвата;вата;утеплитель",пачка,1450,Утеплитель
@@ -85,9 +86,11 @@ function scoreItem(queryText, item){
   const qNorm = normalizeText(queryText), qTokens = tokenize(queryText), iTokens = item.tokens || []; if (!qTokens.length) return { score:0, confidence:0 };
   let score=0, overlap=0; const set = new Set(iTokens);
   qTokens.forEach(t => { if (set.has(t)) { score += 18; overlap++; return; } if (iTokens.some(it => it.startsWith(t)||t.startsWith(it)) && t.length >= 3) score += 8; });
-  const itemNorm = normalizeText(item.searchBlob); if (itemNorm.includes(qNorm)) score += 20;
+  const allTokensHit = qTokens.every(t => set.has(t) || iTokens.some(it => it.startsWith(t) || t.startsWith(it)));
+  if (allTokensHit) score += 25;
+  const itemNorm = normalizeText(item.searchBlob); if (itemNorm.includes(qNorm)) score += 25;
   const qNums = (qNorm.match(/\d+(?:[.,]\d+)?/g) || []).map(x=>x.replace(',','.')); const iNums = itemNorm.match(/\d+(?:[.,]\d+)?/g) || [];
-  qNums.forEach(n => { if (iNums.includes(n)) score += 10; });
+  qNums.forEach(n => { if (iNums.includes(n)) score += 15; });
   const dist = levenshtein(qNorm, itemNorm.slice(0, Math.max(qNorm.length,1)+10)); score += Math.max(0, 1 - dist/Math.max(qNorm.length,1)) * 15; if (!overlap) score *= 0.6;
   return { score, confidence: Math.max(0, Math.min(100, Math.round(score))) };
 }
@@ -152,9 +155,11 @@ export default function App() {
   const runParse = () => {
     const reqs = extractRequestsFromDirtyText(dirtyText);
     const prepared = reqs.map((r, idx) => {
-      const candidates = matchTop(r.itemText, assortment, 3);
+      const parsed = parseOrderText(r.itemText);
+      const normalizedQuery = parsed?.cleanedText || r.itemText;
+      const candidates = matchTop(normalizedQuery, assortment, 3);
       const best = candidates[0];
-      return { rowId:`${Date.now()}-${idx}`, ...r, candidates, confidence: best?.confidence || 0, selectedId: (best?.confidence || 0) >= 45 ? (best.item.id) : '' };
+      return { rowId:`${Date.now()}-${idx}`, ...r, normalizedQuery, candidates, confidence: best?.confidence || 0, selectedId: (best?.confidence || 0) >= 40 ? (best.item.id) : '' };
     });
     setResults(prepared); setResultFilter('all');
   };
@@ -292,7 +297,8 @@ export default function App() {
                   const selected = assortment.find(a => a.id === r.selectedId); const bar = r.confidence >= 70 ? 'progress-green' : r.confidence >= 45 ? 'progress-amber' : 'progress-red';
                   return <div key={r.rowId} className='result-item'>
                     <div className='result-grid'>
-                      <div><div className='muted'>Исходник</div><div style={{fontWeight:600,marginTop:4}}>{r.itemText}</div><div className='row small' style={{marginTop:8}}><span style={{color:'#64748b'}}>Уверенность</span><div className='progress'><div className={bar} style={{width:`${r.confidence}%`}} /></div><b>{r.confidence}%</b></div></div>
+                      <div><div className='muted'>Исходник</div><div style={{fontWeight:600,marginTop:4}}>{r.itemText}</div>
+                        <div className='muted' style={{marginTop:6,fontSize:12}}>{r.normalizedQuery && r.normalizedQuery !== r.itemText ? ("Нормализовано: " + r.normalizedQuery) : ""}</div><div className='row small' style={{marginTop:8}}><span style={{color:'#64748b'}}>Уверенность</span><div className='progress'><div className={bar} style={{width:(r.confidence + "%")}} /></div><b>{r.confidence}%</b></div></div>
                       <div className='grid' style={{ gridTemplateColumns:'1fr 90px 90px', gap:8 }}>
                         <div><div className='muted'>Позиция</div><select className='select' value={r.selectedId} onChange={(e)=>updateResult(r.rowId,{selectedId:e.target.value})} style={{marginTop:4}}><option value=''>— Не выбрано —</option>{r.candidates.map(c => <option key={c.item.id} value={c.item.id}>{c.item.name} ({c.confidence}%)</option>)}</select></div>
                         <div><div className='muted'>Кол-во</div><input className='input' value={r.qty} onChange={(e)=>updateResult(r.rowId,{qty:e.target.value})} style={{marginTop:4}} /></div>
