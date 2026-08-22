@@ -21,6 +21,7 @@ Languages: Russian, Georgian, English
 - Payment date: 2024-08-01
 - TRC20 recipient wallet: TGGFWgyEmBvrE63U9vtzUDyvJr3R9Hy53j
 - MyAuto listing: 121662668
+- Georgian court case number: 330100126012738685
 
 ## External references
 
@@ -28,6 +29,13 @@ Languages: Russian, Georgian, English
 - [Public TRON address](https://tronscan.org/#/address/TGGFWgyEmBvrE63U9vtzUDyvJr3R9Hy53j)
 - [Chainabuse report](https://chainabuse.com/report/248f396d-5f50-4630-bff1-6707405b66d0?submitted=true)
 - [NGnewsGeorgia report cited as general context](https://t.me/NGnewsgeorgia/26442)
+- [TKS/Izvestia report linking Autopodberu orders to ZENA LTD and naming Irakli Kacharava as its owner](https://www.tks.ru/reviews/2024/09/23/04/vot-eto-povorot-v-moskve-vskryili-shemu-obmana-pokupatelej-mashin-iz-za-granitsyi/)
+- [Original Izvestia feature linking Autopodberu orders to ZENA LTD](https://iz.ru/1762403/sergei-krylov/vot-eto-povorot-v-moskve-vskryli-skhemu-obmana-pokupatelei-mashin-iz-za-granitcy)
+- [Izvestia news item about affected customers](https://iz.ru/1763281/2024-09-23/kompaniiu-avtopodborshchika-obvinili-v-obmane-klientov)
+- [TKS/Izvestia follow-up about the Russian criminal investigation and approximately 40 victims](https://www.tks.ru/reviews/2025/02/24/0003/koleso-podozreniya-rossiyan-obmanyivayut-pri-pokupke-inomarok-cherez-gruziyu/)
+- [REN TV report naming Irakli Kacharava and describing at least 11 affected clients](https://ren.tv/news/v-rossii/1263130-moshenniki-s-avtomobiliami)
+- [Georgian Courts CurrentCase search](https://info.court.ge/CurrentCase)
+- [Tbilisi City Court hearing schedule](https://tcc.court.ge/Sessions)
 
 ## Attribution and caution
 
@@ -36,6 +44,8 @@ Languages: Russian, Georgian, English
 - No court finding of guilt is claimed.
 - The current registration, sale, export status and location of the vehicle have not been independently verified.
 - The NGnewsGeorgia publication does not name this VIN, the applicant, Irakli Kacharava, Zena LLC or CAREXPRESS LLC; it is included only as broader public context.
+- The TKS publications name ZENA LTD and Irakli Kacharava but do not identify this VIN, wallet or CAREXPRESS. They establish media context, not liability in this transaction.
+- The Georgian court service lists criminal case 330100126012738685 with Irakli Kacharava among the parties, but the public record does not disclose the charge, procedural roles or any connection to this VIN, wallet or the applicant's transaction.
 
 ## Contact and corrections
 
