@@ -1,0 +1,44 @@
+{
+  "recordId": "SALGS2RU2MA435850",
+  "canonicalUrl": "https://salgs2ru2ma435850.vercel.app/",
+  "published": "2026-08-23",
+  "lastModified": "2026-08-23",
+  "languages": ["ru", "ka", "en"],
+  "vehicle": {
+    "makeAndModel": "Range Rover",
+    "vin": "SALGS2RU2MA435850",
+    "copartLot": "42518314"
+  },
+  "transaction": {
+    "auctionBidUsd": 34750,
+    "documentedPaymentUsd": 37073,
+    "paymentDate": "2024-08-01",
+    "principalCryptoPaymentUsdt": 30063.163903,
+    "network": "TRC20",
+    "recipientWallet": "TGGFWgyEmBvrE63U9vtzUDyvJr3R9Hy53j"
+  },
+  "proceduralStatus": {
+    "policeReport": {
+      "date": "2024-10-24",
+      "status": "Filed in Georgia according to the applicant; public case number not included"
+    },
+    "gccaComplaint": {
+      "date": "2026-08-23",
+      "status": "Sent; registration number and formal response pending at publication"
+    },
+    "vehicleStatus": "Current ownership, registration, completed sale, export and location not independently verified"
+  },
+  "entitiesMentionedInApplicantMaterials": [
+    { "type": "Person", "name": "Irakli Kacharava" },
+    { "type": "Organization", "name": "Zena LLC" },
+    { "type": "Organization", "name": "CAREXPRESS LLC" }
+  ],
+  "attribution": "Control of the wallet, communications and the account of the dispute are statements by the applicant unless otherwise specified. No court finding of guilt is claimed.",
+  "references": {
+    "myAuto": "https://myauto.ge/ka/pr/121662668",
+    "tronscan": "https://tronscan.org/#/address/TGGFWgyEmBvrE63U9vtzUDyvJr3R9Hy53j",
+    "chainabuse": "https://chainabuse.com/report/248f396d-5f50-4630-bff1-6707405b66d0?submitted=true",
+    "mediaContext": "https://t.me/NGnewsgeorgia/26442"
+  },
+  "contact": "mike.shaliapin@gmail.com"
+}
