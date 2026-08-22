@@ -1,0 +1,43 @@
+# Range Rover VIN SALGS2RU2MA435850 - Public Vehicle Record
+
+> A trilingual, evidence-led public record concerning the purchase, payment trail, later listing and procedural status of Range Rover VIN SALGS2RU2MA435850. Allegations are attributed to the applicant and are not presented as court findings.
+
+Canonical URL: https://salgs2ru2ma435850.vercel.app/
+Last updated: 2026-08-23
+Languages: Russian, Georgian, English
+
+## Primary record
+
+- [Public vehicle dossier](https://salgs2ru2ma435850.vercel.app/): Human-readable chronology, payment trail, photographs, external references and procedural status.
+- [Full machine-readable summary](https://salgs2ru2ma435850.vercel.app/llms-full.txt): Detailed facts, attribution boundaries, chronology and source list in Russian, Georgian and English.
+
+## Key identifiers
+
+- VIN: SALGS2RU2MA435850
+- Vehicle: Range Rover
+- Copart lot: 42518314
+- Auction bid: USD 34,750
+- Total documented payment: USD 37,073
+- Payment date: 2024-08-01
+- TRC20 recipient wallet: TGGFWgyEmBvrE63U9vtzUDyvJr3R9Hy53j
+- MyAuto listing: 121662668
+
+## External references
+
+- [MyAuto listing 121662668](https://myauto.ge/ka/pr/121662668)
+- [Public TRON address](https://tronscan.org/#/address/TGGFWgyEmBvrE63U9vtzUDyvJr3R9Hy53j)
+- [Chainabuse report](https://chainabuse.com/report/248f396d-5f50-4630-bff1-6707405b66d0?submitted=true)
+- [NGnewsGeorgia report cited as general context](https://t.me/NGnewsgeorgia/26442)
+
+## Attribution and caution
+
+- The purchase, bid and payment figures are described as documented in the applicant's records.
+- Control of the recipient wallet, communications with named people and companies, and the account of the dispute are statements by the applicant unless otherwise specified.
+- No court finding of guilt is claimed.
+- The current registration, sale, export status and location of the vehicle have not been independently verified.
+- The NGnewsGeorgia publication does not name this VIN, the applicant, Irakli Kacharava, Zena LLC or CAREXPRESS LLC; it is included only as broader public context.
+
+## Contact and corrections
+
+- Email: mike.shaliapin@gmail.com
+- Before sharing documents, redact passport data, personal numbers, home addresses and unrelated third-party information.
