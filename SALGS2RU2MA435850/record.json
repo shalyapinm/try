@@ -26,6 +26,16 @@
       "date": "2026-08-23",
       "status": "Sent; registration number and formal response pending at publication"
     },
+    "publicCourtRecord": {
+      "caseNumber": "330100126012738685",
+      "court": "Tbilisi City Court",
+      "category": "Criminal",
+      "hearingDate": "2026-08-19",
+      "timeShownAtReview": "12:00",
+      "judge": "Irakli Khuskivadze",
+      "parties": ["Goga Kakochashvili", "Irakli Kacharava"],
+      "scopeCaution": "The public entry does not disclose charges, procedural roles or a connection to this VIN or transaction"
+    },
     "vehicleStatus": "Current ownership, registration, completed sale, export and location not independently verified"
   },
   "entitiesMentionedInApplicantMaterials": [
@@ -38,7 +48,14 @@
     "myAuto": "https://myauto.ge/ka/pr/121662668",
     "tronscan": "https://tronscan.org/#/address/TGGFWgyEmBvrE63U9vtzUDyvJr3R9Hy53j",
     "chainabuse": "https://chainabuse.com/report/248f396d-5f50-4630-bff1-6707405b66d0?submitted=true",
-    "mediaContext": "https://t.me/NGnewsgeorgia/26442"
+    "mediaContext": "https://t.me/NGnewsgeorgia/26442",
+    "izvestiaFeature": "https://iz.ru/1762403/sergei-krylov/vot-eto-povorot-v-moskve-vskryli-skhemu-obmana-pokupatelei-mashin-iz-za-granitcy",
+    "izvestiaNews": "https://iz.ru/1763281/2024-09-23/kompaniiu-avtopodborshchika-obvinili-v-obmane-klientov",
+    "tksInitialReport": "https://www.tks.ru/reviews/2024/09/23/04/vot-eto-povorot-v-moskve-vskryili-shemu-obmana-pokupatelej-mashin-iz-za-granitsyi/",
+    "tksFollowupReport": "https://www.tks.ru/reviews/2025/02/24/0003/koleso-podozreniya-rossiyan-obmanyivayut-pri-pokupke-inomarok-cherez-gruziyu/",
+    "renTvReport": "https://ren.tv/news/v-rossii/1263130-moshenniki-s-avtomobiliami",
+    "georgianCourtsCurrentCase": "https://info.court.ge/CurrentCase",
+    "tbilisiCityCourtSessions": "https://tcc.court.ge/Sessions"
   },
   "contact": "mike.shaliapin@gmail.com"
 }
