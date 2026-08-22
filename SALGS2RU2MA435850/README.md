@@ -49,7 +49,20 @@ These are attributed statements concerning an unresolved dispute. This record do
 | 2024-08-01 | Total documented payment of USD 37,073; principal crypto payments total 30,063.163903 USDT. |
 | 2024-10-24 | Police report filed in Georgia and VIN restriction reported by the applicant. |
 | 2026 | Vehicle with the same VIN found in MyAuto listing 121662668; completed sale is not independently verified. |
+| 2026-08-19 | Georgian Courts CurrentCase lists criminal case 330100126012738685 with Irakli Kacharava among the parties; no link to this VIN is stated. |
 | 2026-08-23 | Complaint sent to the Georgian Competition and Consumer Agency; registration and response pending at publication. |
+
+## Independent media context
+
+On 23 September 2024, Izvestia reported that Autopodberu transferred customer orders to the Georgian intermediary ZENA LTD, which paid for vehicles and transport from the United States to Georgia. The report says that, according to open data, ZENA LTD was owned by Irakli Kacharava. TKS published an accessible reprint of the full article.
+
+On 21 September 2024, REN TV reported at least 11 clients without their money or vehicles. It named Irakli Kacharava and stated that he received a transfer from Russia but did not purchase one customer's vehicle. The report does not identify this VIN, wallet or CAREXPRESS.
+
+A follow-up published on 24 February 2025 reported arrests in Moscow, criminal cases under Part 4 of Article 159 of the Russian Criminal Code, at least six episodes and approximately 40 victims in the Autopodberu matter. It again referred to links with ZENA LTD.
+
+Neither article identifies VIN `SALGS2RU2MA435850`, the TRC20 wallet or CAREXPRESS. The reports provide independent context and a published link between ZENA LTD and Kacharava; they do not establish liability in this transaction.
+
+The Georgian court service lists criminal case `330100126012738685`, Tbilisi City Court, dated 19 August 2026, judge Irakli Khuskivadze, with Goga Kakochashvili and Irakli Kacharava as parties. The public entry does not disclose the charge, procedural roles or any connection to this vehicle or transaction. At review it showed 12:00; an earlier TCC schedule result recorded by the applicant showed 13:00.
 
 ## Public references
 
@@ -58,6 +71,13 @@ These are attributed statements concerning an unresolved dispute. This record do
 - [TRON public address](https://tronscan.org/#/address/TGGFWgyEmBvrE63U9vtzUDyvJr3R9Hy53j)
 - [Chainabuse report](https://chainabuse.com/report/248f396d-5f50-4630-bff1-6707405b66d0?submitted=true)
 - [NGnewsGeorgia report cited only as broader context](https://t.me/NGnewsgeorgia/26442)
+- [TKS/Izvestia initial report, 23 September 2024](https://www.tks.ru/reviews/2024/09/23/04/vot-eto-povorot-v-moskve-vskryili-shemu-obmana-pokupatelej-mashin-iz-za-granitsyi/)
+- [Original Izvestia feature, 23 September 2024](https://iz.ru/1762403/sergei-krylov/vot-eto-povorot-v-moskve-vskryli-skhemu-obmana-pokupatelei-mashin-iz-za-granitcy)
+- [Izvestia news item, 23 September 2024](https://iz.ru/1763281/2024-09-23/kompaniiu-avtopodborshchika-obvinili-v-obmane-klientov)
+- [TKS/Izvestia follow-up, 24 February 2025](https://www.tks.ru/reviews/2025/02/24/0003/koleso-podozreniya-rossiyan-obmanyivayut-pri-pokupke-inomarok-cherez-gruziyu/)
+- [REN TV report, 21 September 2024](https://ren.tv/news/v-rossii/1263130-moshenniki-s-avtomobiliami)
+- [Georgian Courts CurrentCase search](https://info.court.ge/CurrentCase)
+- [Tbilisi City Court hearing schedule](https://tcc.court.ge/Sessions)
 
 ## Corrections and additional evidence
 
