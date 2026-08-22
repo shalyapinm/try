@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://salgs2ru2ma435850.vercel.app/#public-record",
+  "headline": "SALGS2RU2MA435850 - Range Rover Public Vehicle Record",
+  "description": "Documented chronology of purchase, payments, listings and filed applications concerning Range Rover VIN SALGS2RU2MA435850.",
+  "datePublished": "2026-08-23",
+  "dateModified": "2026-08-23",
+  "inLanguage": ["ru", "ka", "en"],
+  "url": "https://salgs2ru2ma435850.vercel.app/",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://salgs2ru2ma435850.vercel.app/"
+  },
+  "image": ["https://salgs2ru2ma435850.vercel.app/og.jpg"],
+  "keywords": [
+    "SALGS2RU2MA435850",
+    "Copart 42518314",
+    "TGGFWgyEmBvrE63U9vtzUDyvJr3R9Hy53j",
+    "Zena LLC",
+    "CAREXPRESS LLC",
+    "Irakli Kacharava"
+  ],
+  "about": {
+    "@type": "Vehicle",
+    "name": "Range Rover",
+    "vehicleIdentificationNumber": "SALGS2RU2MA435850",
+    "identifier": [
+      { "@type": "PropertyValue", "name": "VIN", "value": "SALGS2RU2MA435850" },
+      { "@type": "PropertyValue", "name": "Copart lot", "value": "42518314" }
+    ]
+  },
+  "mentions": [
+    { "@type": "Person", "name": "Irakli Kacharava" },
+    { "@type": "Organization", "name": "Zena LLC" },
+    { "@type": "Organization", "name": "CAREXPRESS LLC" }
+  ],
+  "citation": [
+    "https://myauto.ge/ka/pr/121662668",
+    "https://chainabuse.com/report/248f396d-5f50-4630-bff1-6707405b66d0?submitted=true",
+    "https://t.me/NGnewsgeorgia/26442",
+    "https://tronscan.org/#/address/TGGFWgyEmBvrE63U9vtzUDyvJr3R9Hy53j"
+  ],
+  "isAccessibleForFree": true
+}
