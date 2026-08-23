@@ -3,7 +3,7 @@
 > A trilingual, evidence-led public record concerning the purchase, payment trail, later listing and procedural status of Range Rover VIN SALGS2RU2MA435850. Allegations are attributed to the applicant and are not presented as court findings.
 
 Canonical URL: https://salgs2ru2ma435850.vercel.app/
-Last updated: 2026-08-23
+Last updated: 2026-08-24
 Languages: Russian, Georgian, English
 
 ## Primary record
@@ -21,21 +21,25 @@ Languages: Russian, Georgian, English
 - Payment date: 2024-08-01
 - TRC20 recipient wallet: TGGFWgyEmBvrE63U9vtzUDyvJr3R9Hy53j
 - MyAuto listing: 121662668
+- Rustavi police application: 3053474
 - Georgian court case number: 330100126012738685
 
-## Urgent filings on 2026-08-23
+## Procedural escalation on 2026-08-23 and 2026-08-24
 
 - Six recipients each received an English and a Georgian message: the Prosecutor's Office of Georgia, Rustavi police, the MIA General Inspection, GCCA, the Public Defender of Georgia and MyAuto. Gmail confirmed 12 sent messages from the applicant's account.
 - Each filing requested urgent preservation of VIN SALGS2RU2MA435850 and prevention of sale, transfer, registration, export, release or other disposal pending a lawful decision.
 - The MyAuto notice also requested suspension of listing 121662668 and preservation of listing/account logs for law-enforcement requests.
 - Sending is confirmed by Gmail message IDs and the SENT label. Incoming registration numbers, agency decisions and an actual vehicle restriction were not yet received when this record was updated.
 - Law-enforcement filings identify investigator Mariam and the documented WhatsApp exchange of 2025-05-30, when she requested all papers, received an invoice and seven payment images, acknowledged receipt and asked about the USD 7,000 cash component. Her private phone number is not published in this public record.
+- On 2026-08-24 the applicant sent a separate 29-page motion for recognition as a victim, citing Article 56(5) of the Criminal Procedure Code of Georgia and requesting a written procedural decision. Registration of the motion and commencement of any statutory review period are not yet confirmed.
+- Eleven targeted follow-up emails were sent on 2026-08-24. They requested immediate seizure or another lawful restraint against disposal because the same VIN was advertised for sale; preservation of MyAuto, registration, customs, Copart, banking and cryptocurrency records; clarification of court case 330100126012738685; and assistance from a witness/victim coordinator. Sending is confirmed, but no requested measure is reported as granted.
+- The active or recently accessible MyAuto listing is presented as evidence of urgency, not proof that a completed sale occurred.
 
 ## Legal representation outreach
 
 - Five lawyers listed by the Georgian Bar Association received personalized requests in Georgian, Russian and English.
 - They were asked to complete a conflict check concerning Irakli Kacharava, Zena, CAREXPRESS and MyAuto; propose urgent VIN-specific preservation measures; address investigative inaction; and assess a parallel civil recovery claim.
-- One automatic reply was received from a Rustavi address. It did not provide a substantive position, conflict clearance, fee proposal or action plan. No lawyer-client engagement is claimed as of this update.
+- A lawyer contacted through the Georgian Bar Association personally referred the applicant to a Russian-speaking criminal lawyer listed by the Association. The referred lawyer received an email and a delivered message. No conflict clearance, fee agreement, action plan or lawyer-client engagement is claimed as of this update.
 
 ## Call to other affected persons
 
@@ -67,7 +71,7 @@ Languages: Russian, Georgian, English
 - The NGnewsGeorgia publication does not name this VIN, the applicant, Irakli Kacharava, Zena LLC or CAREXPRESS LLC; it is included only as broader public context.
 - The TKS publications name ZENA LTD and Irakli Kacharava but do not identify this VIN, wallet or CAREXPRESS. They establish media context, not liability in this transaction.
 - The Georgian court service lists criminal case 330100126012738685 with Irakli Kacharava among the parties and a hearing date of 2026-08-19. The date has passed, but the actual hearing, adjournment and result have not been publicly confirmed. The record does not disclose the charge, procedural roles or any connection to this VIN, wallet or the applicant's transaction.
-- The six urgent messages are documented as sent, not as registered or granted. No public claim is made that the vehicle has actually been blocked as a result.
+- The 12 initial notices and 11 targeted follow-up emails are documented as sent, not as registered or granted. No public claim is made that the vehicle has actually been blocked as a result.
 
 ## Contact and corrections
 
