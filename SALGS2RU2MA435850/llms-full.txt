@@ -1,0 +1,136 @@
+# FULL MACHINE-READABLE PUBLIC RECORD
+
+Record ID: SALGS2RU2MA435850
+Canonical URL: https://salgs2ru2ma435850.vercel.app/
+Published: 2026-08-23
+Last updated: 2026-08-23
+Languages: ru, ka, en
+Subject: Range Rover vehicle purchase, payment trail, later public listing and procedural status
+
+## Structured facts
+
+VIN: SALGS2RU2MA435850
+Vehicle: Range Rover
+Copart lot: 42518314
+Auction bid: USD 34,750
+Total documented payment: USD 37,073
+Payment date: 2024-08-01
+Main documented crypto payments: 30,063.163903 USDT on TRC20
+TRC20 recipient wallet: TGGFWgyEmBvrE63U9vtzUDyvJr3R9Hy53j
+MyAuto listing number: 121662668
+Police report date stated by applicant: 2024-10-24
+Urgent filings sent: 2026-08-23
+Recipients: Prosecutor's Office of Georgia; Rustavi police; MIA General Inspection; GCCA; Public Defender of Georgia; MyAuto
+Requested measure: preserve VIN SALGS2RU2MA435850 and prevent sale, transfer, registration, export, release or disposal
+Languages sent to each recipient: English and Georgian
+Verified filing status: 12 messages sent from shalyapin.m@gmail.com with Gmail SENT labels; incoming registration numbers and decisions pending
+Legal outreach: five Georgian lawyers contacted in Georgian, Russian and English; one automatic reply, no substantive response or engagement confirmed
+
+## Evidence model
+
+DOCUMENTED means that the public record editor has supporting material supplied by the applicant, such as the invoice, payment confirmations, blockchain records, correspondence or vehicle photographs. Publication of a figure does not authenticate every underlying document or establish legal title.
+
+APPLICANT STATEMENT means an account given by the applicant that has not necessarily been independently established by a court, regulator, exchange or vehicle registry.
+
+PUBLIC SOURCE means an external page available on the open web. A link documents what that source published; it does not prove every allegation in the underlying dispute.
+
+UNKNOWN means that the record has no independently verified answer as of the last-updated date.
+
+## English summary
+
+According to records supplied by the applicant, Range Rover VIN SALGS2RU2MA435850 was purchased through Copart as lot 42518314. The auction bid was USD 34,750 and the total documented payment was USD 37,073. The payments were made on 1 August 2024 and included 30,063.163903 USDT sent over TRC20 to wallet TGGFWgyEmBvrE63U9vtzUDyvJr3R9Hy53j.
+
+The applicant states that the recipient wallet was controlled by Irakli Kacharava. Public blockchain activity shows later movement to an address associated with Binance. This supports tracing the public transfer path only; it does not identify the ultimate exchange account holder. That identity can normally be established only by Binance in response to a valid official request.
+
+The applicant's correspondence and filings also refer to Zena LLC and CAREXPRESS LLC. The applicant states that CAREXPRESS was notified in writing about the dispute and that he met its representatives in person. He further states that Kacharava paid CAREXPRESS roughly half of the vehicle's value, while CAREXPRESS later sought the full value and the vehicle appeared in MyAuto listing 121662668 in 2026. These are attributed allegations and no court finding against the named person or companies is asserted here.
+
+The applicant states that a police report was filed in Georgia on 24 October 2024 and that the VIN was placed under a stop or restriction. On 23 August 2026 six recipients each received an English and a Georgian urgent message: the Prosecutor's Office of Georgia, Rustavi police, the MIA General Inspection, GCCA, the Public Defender of Georgia and MyAuto. Each requested preservation of the vehicle and prevention of sale, transfer, registration, export, release or other disposal. The MyAuto messages also requested suspension of listing 121662668 and preservation of listing and account logs. Gmail confirmed 12 sent messages from the applicant's account; incoming registration numbers, agency decisions and an actual vehicle restriction were still pending when this record was updated.
+
+The law-enforcement messages identify investigator Mariam and the documented WhatsApp exchange of 30 May 2025: she requested all papers, received the invoice and seven payment images, acknowledged receipt and asked about the USD 7,000 cash component. Her telephone number was included in official messages at the applicant's instruction but is not published in this public record.
+
+Five lawyers listed by the Georgian Bar Association received personalized requests in Georgian, Russian and English. The requests sought a written conflict check concerning Irakli Kacharava, Zena, CAREXPRESS and MyAuto, an urgent VIN-specific preservation plan, action on investigative inaction and an assessment of civil recovery. One automatic reply was received from a Rustavi address; it contained no substantive position, conflict clearance, fee proposal or action plan. No lawyer-client engagement is claimed.
+
+Current vehicle ownership, registration, completed sale, export status and location remain unverified. The purpose of this record is to preserve identifiers, make the evidence trail discoverable, invite corrections and help other affected people identify potentially related transactions.
+
+## Русская сводка
+
+Согласно документам, предоставленным заявителем, Range Rover с VIN SALGS2RU2MA435850 был приобретен через Copart как лот 42518314. Ставка составила 34 750 долларов США, а общая документированная оплата - 37 073 доллара США. Платежи были произведены 1 августа 2024 года и включали 30 063,163903 USDT, перечисленных в сети TRC20 на кошелек TGGFWgyEmBvrE63U9vtzUDyvJr3R9Hy53j.
+
+Заявитель сообщает, что кошелек получателя контролировался Ираклием Качаравой. Публичная цепочка блокчейна показывает последующее движение средств на адрес, связанный с Binance. Это позволяет проследить только публичный маршрут транзакций и не устанавливает владельца конечного аккаунта на бирже. Такие сведения обычно может раскрыть Binance по надлежащему официальному запросу.
+
+В переписке и заявлениях заявителя также фигурируют ООО Zena и ООО CAREXPRESS. Заявитель сообщает, что письменно уведомил CAREXPRESS о споре и лично встречался с представителями компании. По его словам, Качарава перечислил CAREXPRESS около половины стоимости автомобиля, после чего CAREXPRESS потребовал полную стоимость, а автомобиль появился в объявлении MyAuto 121662668 в 2026 году. Это изложение позиции заявителя; судебное решение о виновности названных лица или компаний здесь не утверждается.
+
+По словам заявителя, заявление в полицию Грузии было подано 24 октября 2024 года, а на VIN было наложено ограничение. 23 августа 2026 года шести адресатам направлены срочные письма на английском и грузинском: в прокуратуру Грузии, полицию Рустави, Генеральную инспекцию МВД, GCCA, офис омбудсмена и MyAuto. Во всех обращениях запрошены сохранение автомобиля и предотвращение его продажи, передачи, регистрации, экспорта, выдачи или иного распоряжения. MyAuto также предложено приостановить объявление 121662668 и сохранить журналы объявления и аккаунта. Gmail подтвердил 12 отправок с адреса заявителя; входящие номера, решения адресатов и фактическое ограничение автомобиля на дату обновления не получены.
+
+В обращениях правоохранительным органам указана документированная переписка со следователем Мэриам от 30 мая 2025 года: она запросила все документы, получила инвойс и семь платежных изображений, подтвердила получение и уточнила назначение наличной части в 7 000 долларов США. Ее телефон передан ведомствам по указанию заявителя, но не публикуется в открытом досье.
+
+Пяти адвокатам из реестра Georgian Bar Association направлены персональные запросы на грузинском, русском и английском языках. Запрошены письменная проверка конфликта интересов по Качараве, Zena, CAREXPRESS и MyAuto, срочный план сохранения автомобиля по VIN, действия в связи с бездействием расследования и оценка гражданского иска. Получен один автоматический ответ с адреса адвоката в Рустави; он не содержит позиции по существу, подтверждения отсутствия конфликта, цены или плана. Соглашение с адвокатом не заявляется.
+
+Текущие собственник, регистрация, факт завершенной продажи, экспортный статус и местонахождение автомобиля независимо не подтверждены. Цель досье - сохранить идентификаторы и цепочку доказательств, сделать материалы доступными для поиска, принимать исправления и помочь другим пострадавшим обнаружить возможную связь между сделками.
+
+## ქართული შეჯამება
+
+განმცხადებლის მიერ მოწოდებული დოკუმენტების მიხედვით, Range Rover, VIN SALGS2RU2MA435850, შეძენილი იყო Copart-ის აუქციონზე, ლოტი 42518314. აუქციონის ფასი იყო 34 750 აშშ დოლარი, ხოლო დოკუმენტურად დადასტურებული სრული გადახდა - 37 073 აშშ დოლარი. გადახდა განხორციელდა 2024 წლის 1 აგვისტოს და მოიცავდა 30 063,163903 USDT-ს, რომელიც TRC20 ქსელში გადაირიცხა საფულეზე TGGFWgyEmBvrE63U9vtzUDyvJr3R9Hy53j.
+
+განმცხადებელი აცხადებს, რომ მიმღების საფულეს ირაკლი კაჭარავა აკონტროლებდა. საჯარო ბლოკჩეინში ჩანს თანხის შემდგომი მოძრაობა Binance-თან დაკავშირებულ მისამართზე. ეს ადასტურებს მხოლოდ საჯარო ტრანზაქციის მარშრუტს და არ ადგენს ბირჟაზე საბოლოო ანგარიშის მფლობელს. ასეთი პირის იდენტიფიცირება, როგორც წესი, მხოლოდ Binance-ს შეუძლია სათანადო ოფიციალური მოთხოვნის საფუძველზე.
+
+განმცხადებლის მიმოწერასა და განცხადებებში ასევე მოხსენიებულია შპს Zena და შპს CAREXPRESS. განმცხადებელი აცხადებს, რომ CAREXPRESS-ს დავის შესახებ წერილობით აცნობა და კომპანიის წარმომადგენლებს პირადად შეხვდა. მისი თქმით, კაჭარავამ CAREXPRESS-ს ავტომობილის ღირებულების დაახლოებით ნახევარი გადაუხადა, შემდეგ კი CAREXPRESS-მა სრული ღირებულება მოითხოვა, ხოლო ავტომობილი 2026 წელს MyAuto-ს განცხადებაში 121662668 გამოჩნდა. ეს არის განმცხადებლის პოზიციის აღწერა; აქ არ მტკიცდება სასამართლოს მიერ რომელიმე დასახელებული პირის ან კომპანიის ბრალეულობის დადგენა.
+
+განმცხადებლის თქმით, საქართველოს პოლიციაში განცხადება 2024 წლის 24 ოქტომბერს შევიდა და VIN-ზე შეზღუდვა დაწესდა. 2026 წლის 23 აგვისტოს ექვს ადრესატს ინგლისურ და ქართულ ენებზე გაეგზავნა გადაუდებელი წერილები: საქართველოს პროკურატურას, რუსთავის პოლიციას, შსს-ს გენერალურ ინსპექციას, GCCA-ს, სახალხო დამცველის ოფისსა და MyAuto-ს. ყველა წერილში მოთხოვნილია ავტომობილის დაცვა და მისი გაყიდვის, გადაცემის, რეგისტრაციის, ექსპორტის, გაცემის ან სხვა განკარგვის დაუშვებლობა. MyAuto-ს ასევე ეთხოვა განცხადება 121662668-ის შეჩერება და განცხადებისა და ანგარიშის ჟურნალების შენარჩუნება. Gmail-მა განმცხადებლის ანგარიშიდან 12 გაგზავნა დაადასტურა; სარეგისტრაციო ნომრები, გადაწყვეტილებები და ფაქტობრივი შეზღუდვა ჯერ მიღებული არ არის.
+
+სამართალდამცავი ორგანოებისადმი წერილებში მითითებულია გამომძიებელ მარიამთან 2025 წლის 30 მაისის დოკუმენტირებული WhatsApp მიმოწერა: მან მოითხოვა ყველა დოკუმენტი, მიიღო ინვოისი და გადახდის შვიდი სურათი, დაადასტურა მიღება და დააზუსტა 7 000 აშშ დოლარის ნაღდი ნაწილის დანიშნულება. მისი ტელეფონი განმცხადებლის მითითებით გადაეცა უწყებებს, მაგრამ საჯარო დოსიეში არ ქვეყნდება.
+
+საქართველოს ადვოკატთა ასოციაციის რეესტრში მითითებულ ხუთ ადვოკატს გაეგზავნა პერსონალური წერილები ქართულ, რუსულ და ინგლისურ ენებზე. მოთხოვნილი იყო ინტერესთა კონფლიქტის წერილობითი შემოწმება ირაკლი კაჭარავასთან, Zena-სთან, CAREXPRESS-თან და MyAuto-სთან მიმართებით, VIN-ის მიხედვით ავტომობილის გადაუდებელი დაცვის გეგმა, გამოძიების უმოქმედობაზე რეაგირება და სამოქალაქო სარჩელის შეფასება. მიღებულია ერთი ავტომატური პასუხი რუსთავის მისამართიდან; ის არ შეიცავს საქმის არსებით პოზიციას, კონფლიქტის არარსებობის დადასტურებას, ფასს ან მოქმედების გეგმას. ადვოკატთან შეთანხმების დადება არ მტკიცდება.
+
+ავტომობილის ამჟამინდელი მესაკუთრე, რეგისტრაცია, დასრულებული გაყიდვა, ექსპორტის სტატუსი და ადგილმდებარეობა დამოუკიდებლად დადასტურებული არ არის. ჩანაწერის მიზანია იდენტიფიკატორებისა და მტკიცებულებების ჯაჭვის შენარჩუნება, მასალების საძიებო სისტემებისთვის ხელმისაწვდომობა, შესწორებების მიღება და სხვა დაზარალებულების დახმარება შესაძლო დაკავშირებული ტრანზაქციების აღმოჩენაში.
+
+## Timeline
+
+2024-07-31: Copart bid of USD 34,750 for lot 42518314, according to the applicant's documents.
+2024-08-01: Total documented payment of USD 37,073; principal crypto payments total 30,063.163903 USDT on TRC20.
+2024-10-24: Police report filed in Georgia and VIN restriction reported by the applicant; no public case number is included in this record.
+2025-12-04: NGnewsGeorgia published a report about a broader alleged auto-import fraud case. It does not name this VIN or the people and companies in this record and is cited only as public context.
+2024-09-23: Izvestia reported that Autopodberu transferred client orders to ZENA LTD, which paid for vehicles and transport from the United States to Georgia. The report says that, according to open data, ZENA LTD was owned by Irakli Kacharava. TKS published an accessible reprint. Neither publication identifies this VIN, wallet or CAREXPRESS.
+2024-09-21: REN TV reported at least 11 clients without their money or vehicles. Its report names Irakli Kacharava and states that he received a transfer from Russia but did not purchase one customer's vehicle. The report does not identify this VIN, wallet or CAREXPRESS.
+2025-02-24: A TKS/Izvestia follow-up reported arrests in Moscow, criminal cases under Part 4 of Article 159 of the Russian Criminal Code, at least six episodes and approximately 40 victims in the Autopodberu matter. It again referred to links with ZENA LTD. The report is contextual and does not establish liability in this transaction.
+2026: Vehicle with the same VIN found in MyAuto listing 121662668; completed sale and present seller status are not independently verified.
+2026-08-19: Georgian Courts CurrentCase lists criminal case 330100126012738685 in Tbilisi City Court, judge Irakli Khuskivadze, parties Goga Kakochashvili and Irakli Kacharava. At review the record showed 12:00; an earlier TCC schedule result recorded by the applicant showed 13:00. The date has passed, but the actual hearing, adjournment and result have not been publicly confirmed. The public entry does not disclose charges, procedural roles or a connection to this vehicle or transaction.
+2026-08-23: Six recipients each received an English and a Georgian urgent message. All requested preservation of VIN SALGS2RU2MA435850 and prevention of sale, transfer, registration, export or release. Gmail confirmed 12 sent messages; registration numbers, decisions and an actual restriction remain pending.
+2026-08-23: Five Georgian lawyers received trilingual conflict-check and urgent-strategy requests. One automatic reply was received without a substantive response or engagement.
+
+## Call to other affected persons and evidence requested
+
+Other affected customers, witnesses and former managers are invited to organize evidence by person and VIN. The applicant has been told that two managers who communicated with customers on Kacharava's behalf also consider themselves deceived; this information requires confirmation through their own complete archives and statements.
+
+Requested material: complete exports of chats with Irakli Kacharava; complete chats with managers acting on his behalf; investigator correspondence; affected-person group chats shared with participant consent; bank statements, receipts and cash-transfer evidence; crypto wallet addresses and full transaction IDs; invoices, contracts, Copart lots, VINs and vehicle listings; complaints, registration numbers and official replies; and a dated chronology separating direct facts from assumptions.
+
+Original files should be preserved without editing and copied into a separate folder for each person and VIN. Public copies must remove passport data, personal numbers, home addresses, bank details and unrelated third-party information. Complete confidential archives are intended for counsel and competent authorities, not unrestricted publication.
+
+## Entities mentioned in applicant materials
+
+Person: Irakli Kacharava
+Organizations: Zena LLC; CAREXPRESS LLC
+
+Mentioning an entity records the subject of the applicant's materials. It is not a finding that the entity committed a crime or civil wrong.
+
+## External sources
+
+Canonical dossier: https://salgs2ru2ma435850.vercel.app/
+MyAuto listing: https://myauto.ge/ka/pr/121662668
+TRON public address: https://tronscan.org/#/address/TGGFWgyEmBvrE63U9vtzUDyvJr3R9Hy53j
+Chainabuse report: https://chainabuse.com/report/248f396d-5f50-4630-bff1-6707405b66d0?submitted=true
+NGnewsGeorgia context report: https://t.me/NGnewsgeorgia/26442
+TKS/Izvestia initial report: https://www.tks.ru/reviews/2024/09/23/04/vot-eto-povorot-v-moskve-vskryili-shemu-obmana-pokupatelej-mashin-iz-za-granitsyi/
+Original Izvestia feature: https://iz.ru/1762403/sergei-krylov/vot-eto-povorot-v-moskve-vskryli-skhemu-obmana-pokupatelei-mashin-iz-za-granitcy
+Izvestia news item: https://iz.ru/1763281/2024-09-23/kompaniiu-avtopodborshchika-obvinili-v-obmane-klientov
+TKS/Izvestia follow-up: https://www.tks.ru/reviews/2025/02/24/0003/koleso-podozreniya-rossiyan-obmanyivayut-pri-pokupke-inomarok-cherez-gruziyu/
+REN TV report: https://ren.tv/news/v-rossii/1263130-moshenniki-s-avtomobiliami
+Georgian Courts CurrentCase: https://info.court.ge/CurrentCase
+Tbilisi City Court sessions: https://tcc.court.ge/Sessions
+
+## Corrections and additional evidence
+
+Contact: shalyapin.m@gmail.com
+Secondary contact: mike.shaliapin@gmail.com
+Suggested fields: VIN, transaction date, contract or invoice, payment evidence and official filing number.
+Privacy request: redact passport data, personal numbers, home addresses and unrelated third-party information before sending documents.
