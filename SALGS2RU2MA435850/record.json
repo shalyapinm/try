@@ -2,7 +2,7 @@
   "recordId": "SALGS2RU2MA435850",
   "canonicalUrl": "https://salgs2ru2ma435850.vercel.app/",
   "published": "2026-08-23",
-  "lastModified": "2026-08-23",
+  "lastModified": "2026-08-24",
   "languages": ["ru", "ka", "en"],
   "vehicle": {
     "makeAndModel": "Range Rover",
@@ -20,7 +20,9 @@
   "proceduralStatus": {
     "policeReport": {
       "date": "2024-10-24",
-      "status": "Filed in Georgia according to the applicant; public case number not included"
+      "applicationNumber": "3053474",
+      "office": "Rustavi Police Division No. 1",
+      "status": "Filed according to the applicant; criminal-investigation number not publicly confirmed"
     },
     "gccaComplaint": {
       "date": "2026-08-23",
@@ -41,12 +43,29 @@
       "messageCount": 12,
       "status": "Twelve messages confirmed with Gmail SENT labels from shalyapin.m@gmail.com; incoming numbers, decisions and an actual vehicle restriction pending"
     },
+    "followUpFilings": {
+      "date": "2026-08-24",
+      "messageCount": 11,
+      "victimStatusMotion": "Separate 29-page motion sent with a request for a written procedural decision; registration not yet confirmed",
+      "requestedMeasures": [
+        "Immediate seizure or another lawful restraint against disposal because the vehicle was advertised for sale",
+        "Preservation of MyAuto account, listing and message logs",
+        "Preservation of Service Agency registration and ownership history",
+        "Preservation of Revenue Service import and export records",
+        "Preservation of Copart auction and logistics records",
+        "Preservation of Bank of Georgia records and lawful KYC requests to Binance and OKX",
+        "Clarification of Tbilisi City Court case 330100126012738685",
+        "Witness and victim coordinator assistance",
+        "Independent media review"
+      ],
+      "status": "Sending confirmed; incoming numbers, written decisions, actual restraint and requested disclosures pending"
+    },
     "legalOutreach": {
       "date": "2026-08-23",
       "lawyersContacted": 5,
       "languages": ["ka", "ru", "en"],
       "requested": ["conflict check", "urgent VIN preservation plan", "action on investigative inaction", "civil recovery assessment"],
-      "status": "One automatic reply received; no substantive response, conflict clearance, fee proposal or lawyer-client engagement confirmed"
+      "status": "A contacted lawyer referred the applicant to a Russian-speaking criminal lawyer listed by the Georgian Bar Association; email and a delivered message sent; no conflict clearance, fee proposal, action plan or engagement confirmed"
     },
     "affectedPersonsEvidenceCall": {
       "requested": ["complete Kacharava chats", "manager chats", "investigator chats", "affected-person chats with consent", "bank records", "crypto wallet addresses and full transaction IDs", "vehicle and auction documents", "official complaints and replies", "dated chronology"],
