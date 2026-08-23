@@ -49,8 +49,29 @@ These are attributed statements concerning an unresolved dispute. This record do
 | 2024-08-01 | Total documented payment of USD 37,073; principal crypto payments total 30,063.163903 USDT. |
 | 2024-10-24 | Police report filed in Georgia and VIN restriction reported by the applicant. |
 | 2026 | Vehicle with the same VIN found in MyAuto listing 121662668; completed sale is not independently verified. |
-| 2026-08-19 | Georgian Courts CurrentCase lists criminal case 330100126012738685 with Irakli Kacharava among the parties; no link to this VIN is stated. |
-| 2026-08-23 | Complaint sent to the Georgian Competition and Consumer Agency; registration and response pending at publication. |
+| 2026-08-19 | Georgian Courts CurrentCase lists criminal case 330100126012738685 with Irakli Kacharava among the parties. The date has passed; the actual hearing, adjournment and result are not publicly confirmed, and no link to this VIN is stated. |
+| 2026-08-23 | Six recipients each received an English and a Georgian urgent message. All requested preservation of the VIN and prevention of sale, transfer, registration, export or release. Gmail confirmed 12 sent messages; registration numbers, decisions and an actual restriction remain pending. |
+| 2026-08-23 | Five Georgian lawyers received personalized requests in Georgian, Russian and English. One automatic reply was received without a substantive position, conflict clearance, fee proposal or engagement. |
+
+## Urgent filings on 23 August 2026
+
+Gmail confirmed 12 messages sent from `shalyapin.m@gmail.com`: one English and one Georgian message to each of six recipients. The MyAuto notices also requested suspension of listing `121662668` and preservation of listing and account logs. The law-enforcement messages identify the documented WhatsApp exchange with investigator Mariam on 30 May 2025, when she requested all papers, received an invoice and seven payment images, acknowledged receipt and asked about the USD 7,000 cash component. Her private phone number was supplied to authorities but is not published in this open record.
+
+This update records that the messages were sent. It does not claim that they have been registered, granted or that the vehicle is already blocked.
+
+## Legal representation outreach
+
+Five lawyers listed by the Georgian Bar Association received personalized requests in Georgian, Russian and English. They were asked for a written conflict check concerning Irakli Kacharava, Zena, CAREXPRESS and MyAuto, an urgent VIN-specific preservation plan, action on investigative inaction and an assessment of a parallel civil recovery claim.
+
+One automatic reply was received from a Rustavi address. It did not provide a substantive position, conflict clearance, fee proposal or action plan. No lawyer-client engagement is claimed as of this update.
+
+## Call to other affected persons
+
+Other affected customers, witnesses and former managers are invited to organize evidence by person and VIN. The applicant has been told that two managers who communicated with customers on Kacharava's behalf also consider themselves deceived. This requires confirmation through their own complete archives and statements.
+
+Requested material includes complete chat exports with Irakli Kacharava; complete chats with managers acting on his behalf; investigator correspondence; affected-person group chats shared with participant consent; bank statements, receipts and cash-transfer evidence; crypto wallet addresses and full transaction IDs; invoices, contracts, Copart lots, VINs and listings; complaints, registration numbers and official replies; and a dated chronology.
+
+Preserve original files without editing. Public copies must remove passport data, personal numbers, home addresses, bank details and unrelated third-party information. Complete confidential archives are intended for counsel and competent authorities.
 
 ## Independent media context
 
@@ -62,7 +83,7 @@ A follow-up published on 24 February 2025 reported arrests in Moscow, criminal c
 
 Neither article identifies VIN `SALGS2RU2MA435850`, the TRC20 wallet or CAREXPRESS. The reports provide independent context and a published link between ZENA LTD and Kacharava; they do not establish liability in this transaction.
 
-The Georgian court service lists criminal case `330100126012738685`, Tbilisi City Court, dated 19 August 2026, judge Irakli Khuskivadze, with Goga Kakochashvili and Irakli Kacharava as parties. The public entry does not disclose the charge, procedural roles or any connection to this vehicle or transaction. At review it showed 12:00; an earlier TCC schedule result recorded by the applicant showed 13:00.
+The Georgian court service lists criminal case `330100126012738685`, Tbilisi City Court, dated 19 August 2026, judge Irakli Khuskivadze, with Goga Kakochashvili and Irakli Kacharava as parties. The date has passed, but the actual hearing, adjournment and result have not been publicly confirmed. The entry does not disclose the charge, procedural roles or any connection to this vehicle or transaction. At review it showed 12:00; an earlier TCC schedule result recorded by the applicant showed 13:00.
 
 ## Public references
 
@@ -81,7 +102,8 @@ The Georgian court service lists criminal case `330100126012738685`, Tbilisi Cit
 
 ## Corrections and additional evidence
 
-Email: `mike.shaliapin@gmail.com`
+Email: `shalyapin.m@gmail.com`  
+Secondary: `mike.shaliapin@gmail.com`
 
 Before sharing documents, redact passport data, personal numbers, home addresses and unrelated third-party information.
 
