@@ -47,23 +47,30 @@ These are attributed statements concerning an unresolved dispute. This record do
 | --- | --- |
 | 2024-07-31 | Copart bid of USD 34,750 for lot 42518314, according to the applicant's documents. |
 | 2024-08-01 | Total documented payment of USD 37,073; principal crypto payments total 30,063.163903 USDT. |
-| 2024-10-24 | Police report filed in Georgia and VIN restriction reported by the applicant. |
+| 2024-10-24 | Police application no. 3053474 filed with Rustavi Police Division No. 1 and VIN restriction reported by the applicant. |
 | 2026 | Vehicle with the same VIN found in MyAuto listing 121662668; completed sale is not independently verified. |
 | 2026-08-19 | Georgian Courts CurrentCase lists criminal case 330100126012738685 with Irakli Kacharava among the parties. The date has passed; the actual hearing, adjournment and result are not publicly confirmed, and no link to this VIN is stated. |
 | 2026-08-23 | Six recipients each received an English and a Georgian urgent message. All requested preservation of the VIN and prevention of sale, transfer, registration, export or release. Gmail confirmed 12 sent messages; registration numbers, decisions and an actual restriction remain pending. |
 | 2026-08-23 | Five Georgian lawyers received personalized requests in Georgian, Russian and English. One automatic reply was received without a substantive position, conflict clearance, fee proposal or engagement. |
+| 2026-08-24 | A separate 29-page motion for recognition as a victim was sent to the Prosecutor's Office, requesting a written procedural decision. Registration and commencement of any statutory review period remain unconfirmed. |
+| 2026-08-24 | Eleven targeted follow-up emails requested immediate seizure or restraint against disposal because the vehicle was advertised for sale, plus preservation of registration, customs, platform, auction, banking and cryptocurrency data. Sending is confirmed; no requested measure is reported as granted. |
+| 2026-08-24 | A contacted lawyer referred the applicant to a Russian-speaking criminal lawyer listed by the Georgian Bar Association. Email and a delivered message were sent; no engagement or action plan is yet confirmed. |
 
-## Urgent filings on 23 August 2026
+## Urgent filings on 23-24 August 2026
 
 Gmail confirmed 12 messages sent from `shalyapin.m@gmail.com`: one English and one Georgian message to each of six recipients. The MyAuto notices also requested suspension of listing `121662668` and preservation of listing and account logs. The law-enforcement messages identify the documented WhatsApp exchange with investigator Mariam on 30 May 2025, when she requested all papers, received an invoice and seven payment images, acknowledged receipt and asked about the USD 7,000 cash component. Her private phone number was supplied to authorities but is not published in this open record.
 
 This update records that the messages were sent. It does not claim that they have been registered, granted or that the vehicle is already blocked.
 
+On 24 August the applicant sent a separate 29-page motion for recognition as a victim and 11 targeted follow-up emails. The follow-ups requested urgent seizure or another lawful restraint against sale, transfer, registration, export or release of the Range Rover because MyAuto listing `121662668` showed the same VIN offered for sale. Separate preservation requests covered MyAuto account and message logs, Service Agency registration history, Revenue Service import/export records, Copart auction records, Bank of Georgia records and lawful KYC requests to Binance and OKX. Requests were also sent concerning court case `330100126012738685`, witness/victim coordinator assistance and independent media review.
+
+Sending is documented. Incoming numbers, a written victim-status decision, an actual seizure or registration restriction, exchange disclosures and the court-case result had not been received when this record was updated.
+
 ## Legal representation outreach
 
 Five lawyers listed by the Georgian Bar Association received personalized requests in Georgian, Russian and English. They were asked for a written conflict check concerning Irakli Kacharava, Zena, CAREXPRESS and MyAuto, an urgent VIN-specific preservation plan, action on investigative inaction and an assessment of a parallel civil recovery claim.
 
-One automatic reply was received from a Rustavi address. It did not provide a substantive position, conflict clearance, fee proposal or action plan. No lawyer-client engagement is claimed as of this update.
+A contacted lawyer personally referred the applicant to a Russian-speaking criminal lawyer listed by the Georgian Bar Association. The referred lawyer received an email and a delivered message. No conflict clearance, fee proposal, action plan or lawyer-client engagement is claimed as of this update.
 
 ## Call to other affected persons
 
