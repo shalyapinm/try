@@ -21,17 +21,21 @@ These are attributed statements in an unresolved dispute. This publication does 
 
 ## Procedural status
 
-The applicant states that a police report was filed in Georgia on 24 October 2024 and that the VIN was placed under a restriction.
+The applicant states that police application no. 3053474 was filed with Rustavi Police Division No. 1 on 24 October 2024 and that the VIN was placed under a restriction.
 
 On 23 August 2026 six recipients each received an English and a Georgian urgent message: the Prosecutor's Office of Georgia, Rustavi police, the MIA General Inspection, GCCA, the Public Defender of Georgia and MyAuto. Each requested preservation of VIN SALGS2RU2MA435850 and prevention of sale, transfer, registration, export, release or other disposal. MyAuto was also asked to suspend listing 121662668 and preserve listing and account logs.
 
 Gmail confirmed 12 sent messages from the applicant's account. Incoming registration numbers, agency decisions and an actual vehicle restriction had not been received when this page was updated. The law-enforcement messages refer to the documented WhatsApp exchange with investigator Mariam on 30 May 2025, when she requested all papers, received the invoice and seven payment images, acknowledged receipt and asked about the USD 7,000 cash component. Her private contact number is not published here.
 
+On 24 August 2026 the applicant sent a separate 29-page motion for recognition as a victim, citing Article 56(5) of the Criminal Procedure Code of Georgia and requesting a written decision. Eleven further targeted emails requested immediate seizure or another lawful restraint against disposal because the same Range Rover was advertised for sale, as well as preservation of MyAuto, vehicle-registration, customs, Copart, banking and cryptocurrency records. Separate requests concerned court case 330100126012738685, witness/victim coordinator assistance and independent media review.
+
+Sending is confirmed. Incoming reference numbers, a written victim-status decision, an actual seizure or registration restriction, exchange disclosures and the court-case result have not yet been received. The listing is evidence of urgency, not proof that a completed sale occurred.
+
 ## Legal representation outreach
 
 Five lawyers listed by the Georgian Bar Association received personalized requests in Georgian, Russian and English. They were asked for a written conflict check concerning Irakli Kacharava, Zena, CAREXPRESS and MyAuto, an urgent VIN-specific preservation plan, action on investigative inaction and an assessment of a parallel civil recovery claim.
 
-One automatic reply was received from a Rustavi address. It did not provide a substantive position, conflict clearance, fee proposal or action plan. No lawyer-client engagement is claimed.
+A contacted lawyer personally referred the applicant to a Russian-speaking criminal lawyer listed by the Georgian Bar Association. The referred lawyer received an email and a delivered message. No conflict clearance, fee proposal, action plan or lawyer-client engagement is claimed.
 
 ## Call to other affected persons
 
@@ -53,6 +57,8 @@ Original files should be preserved without editing. Passport data, personal numb
 
 23 августа 2026 года отдельные срочные обращения направлены в прокуратуру Грузии, полицию Рустави, Генеральную инспекцию МВД, GCCA, офис омбудсмена и MyAuto. Во всех письмах запрошены сохранение автомобиля и предотвращение его продажи, передачи, регистрации, экспорта или выдачи. Отправка подтверждена; входящие номера, решения ведомств и фактическая блокировка пока не получены.
 
+24 августа направлены отдельное 29-страничное ходатайство о признании потерпевшим и 11 адресных последующих писем. В них потребованы срочный арест или иной законный запрет отчуждения автомобиля из-за объявления о его продаже, а также сохранение регистрационных, таможенных, платформенных, аукционных, банковских и криптовалютных данных. Отправка подтверждена; входящие номера и принятые меры пока не подтверждены.
+
 ## ქართული ვერსია
 
 განმცხადებლის დოკუმენტების მიხედვით, Range Rover, VIN SALGS2RU2MA435850, შეძენილი იყო Copart-ის აუქციონზე, ლოტი 42518314. აუქციონის ფასი იყო 34 750 აშშ დოლარი, ხოლო სრული დოკუმენტირებული გადახდა - 37 073 აშშ დოლარი. 2024 წლის 1 აგვისტოს გადახდა მოიცავდა 30 063,163903 USDT-ს საფულეზე TGGFWgyEmBvrE63U9vtzUDyvJr3R9Hy53j.
@@ -62,6 +68,8 @@ Original files should be preserved without editing. Passport data, personal numb
 განმცხადებლის მასალებში ასევე მოხსენიებულია შპს Zena და შპს CAREXPRESS. ეს არის განმცხადებლის პოზიცია მოუგვარებელ დავაზე და არ წარმოადგენს სასამართლოს მიერ ბრალეულობის დადგენას. ავტომობილის ამჟამინდელი საკუთრება, რეგისტრაცია, გაყიდვა, ექსპორტი და ადგილმდებარეობა დამოუკიდებლად დადასტურებული არ არის.
 
 2026 წლის 23 აგვისტოს ცალკეული გადაუდებელი წერილები გაეგზავნა საქართველოს პროკურატურას, რუსთავის პოლიციას, შსს-ს გენერალურ ინსპექციას, GCCA-ს, სახალხო დამცველის ოფისსა და MyAuto-ს. მოთხოვნილია ავტომობილის დაცვა და მისი გაყიდვის, გადაცემის, რეგისტრაციის, ექსპორტის ან გაცემის დაუშვებლობა. გაგზავნა დადასტურებულია; სარეგისტრაციო ნომრები, გადაწყვეტილებები და ფაქტობრივი შეზღუდვა ჯერ მიღებული არ არის.
+
+2026 წლის 24 აგვისტოს გაიგზავნა ცალკე 29-გვერდიანი შუამდგომლობა დაზარალებულად ცნობის შესახებ და 11 მიზნობრივი შემდგომი წერილი. ავტომობილის გაყიდვის შესახებ განცხადების გამო მოთხოვნილია მისი დაუყოვნებლივი დაყადაღება ან გასხვისების სხვა კანონიერი შეზღუდვა, აგრეთვე სარეგისტრაციო, საბაჟო, პლატფორმის, აუქციონის, საბანკო და კრიპტოვალუტის მონაცემების შენარჩუნება. გაგზავნა დადასტურებულია; სარეგისტრაციო ნომრები და მიღებული ზომები ჯერ არ არის დადასტურებული.
 
 ## Independent media context
 
