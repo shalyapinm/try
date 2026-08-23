@@ -26,6 +26,33 @@
       "date": "2026-08-23",
       "status": "Sent; registration number and formal response pending at publication"
     },
+    "urgentFilings": {
+      "date": "2026-08-23",
+      "recipients": [
+        "Prosecutor's Office of Georgia",
+        "Rustavi police",
+        "MIA General Inspection",
+        "GCCA",
+        "Public Defender of Georgia",
+        "MyAuto"
+      ],
+      "requestedMeasure": "Preserve VIN SALGS2RU2MA435850 and prevent sale, transfer, registration, export, release or disposal pending a lawful decision",
+      "languages": ["en", "ka"],
+      "messageCount": 12,
+      "status": "Twelve messages confirmed with Gmail SENT labels from shalyapin.m@gmail.com; incoming numbers, decisions and an actual vehicle restriction pending"
+    },
+    "legalOutreach": {
+      "date": "2026-08-23",
+      "lawyersContacted": 5,
+      "languages": ["ka", "ru", "en"],
+      "requested": ["conflict check", "urgent VIN preservation plan", "action on investigative inaction", "civil recovery assessment"],
+      "status": "One automatic reply received; no substantive response, conflict clearance, fee proposal or lawyer-client engagement confirmed"
+    },
+    "affectedPersonsEvidenceCall": {
+      "requested": ["complete Kacharava chats", "manager chats", "investigator chats", "affected-person chats with consent", "bank records", "crypto wallet addresses and full transaction IDs", "vehicle and auction documents", "official complaints and replies", "dated chronology"],
+      "managerStatementCaution": "The applicant has been told that two managers who communicated with customers on Kacharava's behalf also consider themselves deceived; this requires confirmation through their own archives and statements",
+      "privacy": "Preserve originals; redact personal and unrelated third-party data from public copies"
+    },
     "publicCourtRecord": {
       "caseNumber": "330100126012738685",
       "court": "Tbilisi City Court",
@@ -34,7 +61,7 @@
       "timeShownAtReview": "12:00",
       "judge": "Irakli Khuskivadze",
       "parties": ["Goga Kakochashvili", "Irakli Kacharava"],
-      "scopeCaution": "The public entry does not disclose charges, procedural roles or a connection to this VIN or transaction"
+      "scopeCaution": "The date has passed, but the actual hearing, adjournment and result are not publicly confirmed; the entry does not disclose charges, procedural roles or a connection to this VIN or transaction"
     },
     "vehicleStatus": "Current ownership, registration, completed sale, export and location not independently verified"
   },
@@ -57,5 +84,6 @@
     "georgianCourtsCurrentCase": "https://info.court.ge/CurrentCase",
     "tbilisiCityCourtSessions": "https://tcc.court.ge/Sessions"
   },
-  "contact": "mike.shaliapin@gmail.com"
+  "contact": "shalyapin.m@gmail.com",
+  "secondaryContact": "mike.shaliapin@gmail.com"
 }
